@@ -1,0 +1,13 @@
+Django
+django-filter
+django-rest-passwordreset
+djangorestframework
+psycopg2-binary
+celery
+PyYAML
+redis
+requests
+ujson
+django-allauth
+gunicorn
+python-dotenv
